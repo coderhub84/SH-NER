@@ -1,5 +1,5 @@
 # SH-NER
-
+The SH-NER dataset consists of manually annotated infrastructure-related entities (software, hardware, memory, etc.) extracted from NLP papers.
 The following table shows the distribution of infrastructure-related entity types in the SH-NER dataset across the training and test sets, along with their relative percentages:
 | **Entity Type**     | **Train** | **%**   | **Test** | **%**   |
 |---------------------|-----------|---------|----------|---------|
