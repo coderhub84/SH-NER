@@ -12,5 +12,6 @@ The following table shows the distribution of infrastructure-related entity type
 
 
 
-Reference:
+**Reference**:
+
 Beyond Methods and Datasets Entities: Introducing SH-NER for Hardware and Software Entity Recognition in Scientific Text (Aftab Anjum, Nimra Maqbool and Ralf Krestel)
