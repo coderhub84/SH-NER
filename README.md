@@ -9,3 +9,8 @@ The following table shows the distribution of infrastructure-related entity type
 | Device-Memory       | 507       | 9.60%   | 52       | 8.00%   |
 | Cloud-Platform      | 176       | 3.32%   | 38       | 5.73%   |
 | **Total**           | **5,287** | **100%**| **663**  | **100%**|
+
+
+
+Reference:
+Beyond Methods and Datasets Entities: Introducing SH-NER for Hardware and Software Entity Recognition in Scientific Text (Aftab Anjum, Nimra Maqbool and Ralf Krestel)
