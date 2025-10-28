@@ -14,4 +14,4 @@ The following table shows the distribution of infrastructure-related entity type
 
 **Reference**:
 
-Beyond Methods and Datasets Entities: Introducing SH-NER for Hardware and Software Entity Recognition in Scientific Text (Aftab Anjum, Nimra Maqbool and Ralf Krestel)
+Anjum, A., Maqbool, N., & Krestel, R. (2025). Beyond methods and datasets entities: Introducing SH-NER for hardware and software entity recognition in scientific text. In Proceedings of Recent Advances in Natural Language Processing (pp. 85–94). Varna, Bulgaria.
